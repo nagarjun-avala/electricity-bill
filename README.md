@@ -48,5 +48,5 @@ The fair charging categories are as follows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nagarjun-avala/electricity-bill-calculator.git
+   git clone https://github.com/nagarjun-avala/electricity-bill.git
    ```
