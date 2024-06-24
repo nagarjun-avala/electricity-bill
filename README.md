@@ -50,3 +50,4 @@ The fair charging categories are as follows:
    ```bash
    git clone https://github.com/nagarjun-avala/electricity-bill.git
    ```
+2. [Live Preview](https://nagarjun-avala.github.io/electricity-bill/)
